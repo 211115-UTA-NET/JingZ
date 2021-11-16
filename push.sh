@@ -7,7 +7,7 @@ git add $input
 git status
 echo -n "Commit message: "
 read msg
-git commit -m '$msg'
-echo -n "push branch name: "
+git commit -m "$msg"
+echo -n "push to [branchName]: "
 read branch
 git push origin $branch
