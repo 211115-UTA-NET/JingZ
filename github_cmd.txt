@@ -1,0 +1,17 @@
+Git Pull:
+	1. git init
+	2. git remote add origin [http_url] //Set origin as an alias of url
+	3. git pull origin [branch_name]
+
+Git Push:
+	1. git init
+	2. git add .
+	3. git status
+	4. git commit -m '...'
+	5. git remote add origin 'http_url' //Set origin as an alias of url
+	6. git push -u origin [branch_name]
+
+Git clone [http_url] //copy github repo to current.
+
+IF push main FAILED, Try:
+	git branch -M main
