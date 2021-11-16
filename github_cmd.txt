@@ -15,3 +15,8 @@ Git clone [http_url] //copy github repo to current.
 
 IF push main FAILED, Try:
 	git branch -M main
+
+Merge two branches:
+	1. git branch   		//check current branch
+	2. git checkout [branchA]       //Switch branch to branchA
+	3. git merge [branchB]		//merge branchB to current branch
