@@ -1,2 +1,2 @@
 # JingZ
-My personal codes
+## Welcome to Jing's Repo
