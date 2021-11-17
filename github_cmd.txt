@@ -1,3 +1,6 @@
+Check is origin set:
+	git remote -v  //check the origin url
+
 Git Pull:
 	1. git init
 	2. git remote add origin [http_url] //Set origin as an alias of url

@@ -16,7 +16,7 @@ if [ $x == "Y" ] || [ $x == "y" ]
 then 
     echo -n "Create a file name: "
 	read filename
-	filepath="./$foldername/$filename"
+	filepath=./$foldername/$filename
 	if [ -f $filepath ]
 	then
 		echo "file already exists!"
