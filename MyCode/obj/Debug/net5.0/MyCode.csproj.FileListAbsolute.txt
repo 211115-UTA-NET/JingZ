@@ -1,0 +1,16 @@
+D:\Study_Documents\Revature\Training\JingZ\MyCode\bin\Debug\net5.0\MyCode.exe
+D:\Study_Documents\Revature\Training\JingZ\MyCode\bin\Debug\net5.0\MyCode.deps.json
+D:\Study_Documents\Revature\Training\JingZ\MyCode\bin\Debug\net5.0\MyCode.runtimeconfig.json
+D:\Study_Documents\Revature\Training\JingZ\MyCode\bin\Debug\net5.0\MyCode.runtimeconfig.dev.json
+D:\Study_Documents\Revature\Training\JingZ\MyCode\bin\Debug\net5.0\MyCode.dll
+D:\Study_Documents\Revature\Training\JingZ\MyCode\bin\Debug\net5.0\ref\MyCode.dll
+D:\Study_Documents\Revature\Training\JingZ\MyCode\bin\Debug\net5.0\MyCode.pdb
+D:\Study_Documents\Revature\Training\JingZ\MyCode\obj\Debug\net5.0\MyCode.csproj.AssemblyReference.cache
+D:\Study_Documents\Revature\Training\JingZ\MyCode\obj\Debug\net5.0\MyCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study_Documents\Revature\Training\JingZ\MyCode\obj\Debug\net5.0\MyCode.AssemblyInfoInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\MyCode\obj\Debug\net5.0\MyCode.AssemblyInfo.cs
+D:\Study_Documents\Revature\Training\JingZ\MyCode\obj\Debug\net5.0\MyCode.csproj.CoreCompileInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\MyCode\obj\Debug\net5.0\MyCode.dll
+D:\Study_Documents\Revature\Training\JingZ\MyCode\obj\Debug\net5.0\ref\MyCode.dll
+D:\Study_Documents\Revature\Training\JingZ\MyCode\obj\Debug\net5.0\MyCode.pdb
+D:\Study_Documents\Revature\Training\JingZ\MyCode\obj\Debug\net5.0\MyCode.genruntimeconfig.cache
