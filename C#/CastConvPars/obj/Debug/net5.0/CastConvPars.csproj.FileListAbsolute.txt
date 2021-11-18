@@ -1,0 +1,16 @@
+D:\Study_Documents\Revature\Training\JingZ\C#\CastConvPars\bin\Debug\net5.0\CastConvPars.exe
+D:\Study_Documents\Revature\Training\JingZ\C#\CastConvPars\bin\Debug\net5.0\CastConvPars.deps.json
+D:\Study_Documents\Revature\Training\JingZ\C#\CastConvPars\bin\Debug\net5.0\CastConvPars.runtimeconfig.json
+D:\Study_Documents\Revature\Training\JingZ\C#\CastConvPars\bin\Debug\net5.0\CastConvPars.runtimeconfig.dev.json
+D:\Study_Documents\Revature\Training\JingZ\C#\CastConvPars\bin\Debug\net5.0\CastConvPars.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\CastConvPars\bin\Debug\net5.0\ref\CastConvPars.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\CastConvPars\bin\Debug\net5.0\CastConvPars.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\CastConvPars\obj\Debug\net5.0\CastConvPars.csproj.AssemblyReference.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\CastConvPars\obj\Debug\net5.0\CastConvPars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study_Documents\Revature\Training\JingZ\C#\CastConvPars\obj\Debug\net5.0\CastConvPars.AssemblyInfoInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\CastConvPars\obj\Debug\net5.0\CastConvPars.AssemblyInfo.cs
+D:\Study_Documents\Revature\Training\JingZ\C#\CastConvPars\obj\Debug\net5.0\CastConvPars.csproj.CoreCompileInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\CastConvPars\obj\Debug\net5.0\CastConvPars.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\CastConvPars\obj\Debug\net5.0\ref\CastConvPars.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\CastConvPars\obj\Debug\net5.0\CastConvPars.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\CastConvPars\obj\Debug\net5.0\CastConvPars.genruntimeconfig.cache

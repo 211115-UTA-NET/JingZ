@@ -1,0 +1,6 @@
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\1_StringManipulation\StringManipulationChallenge\bin\Debug\ConsoleApplication.exe
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\1_StringManipulation\StringManipulationChallenge\bin\Debug\ConsoleApplication.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\1_StringManipulation\StringManipulationChallenge\obj\x86\Debug\StringManipulationChallenge.csproj.AssemblyReference.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\1_StringManipulation\StringManipulationChallenge\obj\x86\Debug\StringManipulationChallenge.csproj.CoreCompileInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\1_StringManipulation\StringManipulationChallenge\obj\x86\Debug\ConsoleApplication.exe
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\1_StringManipulation\StringManipulationChallenge\obj\x86\Debug\ConsoleApplication.pdb

@@ -1,0 +1,6 @@
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\bin\Debug\ConsoleApplication.exe
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\bin\Debug\ConsoleApplication.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\obj\x86\Debug\3_DataTypeAndVariablesChallenge-StudentCopy.csproj.AssemblyReference.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\obj\x86\Debug\3_DataTypeAndVariablesChallenge-StudentCopy.csproj.CoreCompileInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\obj\x86\Debug\ConsoleApplication.exe
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\3_DataTypeAndVariables\3_DataTypeAndVariablesChallenge-StudentCopy\obj\x86\Debug\ConsoleApplication.pdb
