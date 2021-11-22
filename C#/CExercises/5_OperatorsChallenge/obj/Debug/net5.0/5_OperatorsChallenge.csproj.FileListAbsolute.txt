@@ -1,0 +1,16 @@
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\5_OperatorsChallenge\bin\Debug\net5.0\5_OperatorsChallenge.exe
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\5_OperatorsChallenge\bin\Debug\net5.0\5_OperatorsChallenge.deps.json
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\5_OperatorsChallenge\bin\Debug\net5.0\5_OperatorsChallenge.runtimeconfig.json
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\5_OperatorsChallenge\bin\Debug\net5.0\5_OperatorsChallenge.runtimeconfig.dev.json
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\5_OperatorsChallenge\bin\Debug\net5.0\5_OperatorsChallenge.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\5_OperatorsChallenge\bin\Debug\net5.0\ref\5_OperatorsChallenge.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\5_OperatorsChallenge\bin\Debug\net5.0\5_OperatorsChallenge.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\5_OperatorsChallenge\obj\Debug\net5.0\5_OperatorsChallenge.csproj.AssemblyReference.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\5_OperatorsChallenge\obj\Debug\net5.0\5_OperatorsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\5_OperatorsChallenge\obj\Debug\net5.0\5_OperatorsChallenge.AssemblyInfoInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\5_OperatorsChallenge\obj\Debug\net5.0\5_OperatorsChallenge.AssemblyInfo.cs
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\5_OperatorsChallenge\obj\Debug\net5.0\5_OperatorsChallenge.csproj.CoreCompileInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\5_OperatorsChallenge\obj\Debug\net5.0\5_OperatorsChallenge.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\5_OperatorsChallenge\obj\Debug\net5.0\ref\5_OperatorsChallenge.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\5_OperatorsChallenge\obj\Debug\net5.0\5_OperatorsChallenge.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\CExercises\5_OperatorsChallenge\obj\Debug\net5.0\5_OperatorsChallenge.genruntimeconfig.cache
