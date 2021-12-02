@@ -1,0 +1,15 @@
+D:\Study_Documents\Revature\Training\JingZ\C#\AccessModifiers\obj\Debug\net6.0\AccessModifiers.csproj.AssemblyReference.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\AccessModifiers\obj\Debug\net6.0\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study_Documents\Revature\Training\JingZ\C#\AccessModifiers\obj\Debug\net6.0\AccessModifiers.AssemblyInfoInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\AccessModifiers\obj\Debug\net6.0\AccessModifiers.AssemblyInfo.cs
+D:\Study_Documents\Revature\Training\JingZ\C#\AccessModifiers\obj\Debug\net6.0\AccessModifiers.csproj.CoreCompileInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\AccessModifiers\bin\Debug\net6.0\AccessModifiers.exe
+D:\Study_Documents\Revature\Training\JingZ\C#\AccessModifiers\bin\Debug\net6.0\AccessModifiers.deps.json
+D:\Study_Documents\Revature\Training\JingZ\C#\AccessModifiers\bin\Debug\net6.0\AccessModifiers.runtimeconfig.json
+D:\Study_Documents\Revature\Training\JingZ\C#\AccessModifiers\bin\Debug\net6.0\AccessModifiers.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\AccessModifiers\bin\Debug\net6.0\ref\AccessModifiers.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\AccessModifiers\bin\Debug\net6.0\AccessModifiers.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\AccessModifiers\obj\Debug\net6.0\AccessModifiers.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\AccessModifiers\obj\Debug\net6.0\ref\AccessModifiers.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\AccessModifiers\obj\Debug\net6.0\AccessModifiers.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\AccessModifiers\obj\Debug\net6.0\AccessModifiers.genruntimeconfig.cache

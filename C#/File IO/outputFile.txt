@@ -1,0 +1,5 @@
+writing text to the output file.
+line 2
+hi
+hello
+How's it going

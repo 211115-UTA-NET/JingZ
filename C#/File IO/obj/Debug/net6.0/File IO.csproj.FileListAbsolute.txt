@@ -1,0 +1,15 @@
+D:\Study_Documents\Revature\Training\JingZ\C#\File IO\bin\Debug\net6.0\File IO.exe
+D:\Study_Documents\Revature\Training\JingZ\C#\File IO\bin\Debug\net6.0\File IO.deps.json
+D:\Study_Documents\Revature\Training\JingZ\C#\File IO\bin\Debug\net6.0\File IO.runtimeconfig.json
+D:\Study_Documents\Revature\Training\JingZ\C#\File IO\bin\Debug\net6.0\File IO.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\File IO\bin\Debug\net6.0\ref\File IO.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\File IO\bin\Debug\net6.0\File IO.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\File IO\obj\Debug\net6.0\File IO.csproj.AssemblyReference.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\File IO\obj\Debug\net6.0\File IO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study_Documents\Revature\Training\JingZ\C#\File IO\obj\Debug\net6.0\File IO.AssemblyInfoInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\File IO\obj\Debug\net6.0\File IO.AssemblyInfo.cs
+D:\Study_Documents\Revature\Training\JingZ\C#\File IO\obj\Debug\net6.0\File IO.csproj.CoreCompileInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\File IO\obj\Debug\net6.0\File IO.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\File IO\obj\Debug\net6.0\ref\File IO.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\File IO\obj\Debug\net6.0\File IO.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\File IO\obj\Debug\net6.0\File IO.genruntimeconfig.cache

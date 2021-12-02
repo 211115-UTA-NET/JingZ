@@ -1,0 +1,15 @@
+D:\Study_Documents\Revature\Training\JingZ\C#\OverrideOverload\obj\Debug\net6.0\OverrideOverload.csproj.AssemblyReference.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\OverrideOverload\obj\Debug\net6.0\OverrideOverload.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study_Documents\Revature\Training\JingZ\C#\OverrideOverload\obj\Debug\net6.0\OverrideOverload.AssemblyInfoInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\OverrideOverload\obj\Debug\net6.0\OverrideOverload.AssemblyInfo.cs
+D:\Study_Documents\Revature\Training\JingZ\C#\OverrideOverload\obj\Debug\net6.0\OverrideOverload.csproj.CoreCompileInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\OverrideOverload\bin\Debug\net6.0\OverrideOverload.exe
+D:\Study_Documents\Revature\Training\JingZ\C#\OverrideOverload\bin\Debug\net6.0\OverrideOverload.deps.json
+D:\Study_Documents\Revature\Training\JingZ\C#\OverrideOverload\bin\Debug\net6.0\OverrideOverload.runtimeconfig.json
+D:\Study_Documents\Revature\Training\JingZ\C#\OverrideOverload\bin\Debug\net6.0\OverrideOverload.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\OverrideOverload\bin\Debug\net6.0\ref\OverrideOverload.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\OverrideOverload\bin\Debug\net6.0\OverrideOverload.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\OverrideOverload\obj\Debug\net6.0\OverrideOverload.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\OverrideOverload\obj\Debug\net6.0\ref\OverrideOverload.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\OverrideOverload\obj\Debug\net6.0\OverrideOverload.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\OverrideOverload\obj\Debug\net6.0\OverrideOverload.genruntimeconfig.cache

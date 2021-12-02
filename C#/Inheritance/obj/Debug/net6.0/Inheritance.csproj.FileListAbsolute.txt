@@ -1,0 +1,15 @@
+D:\Study_Documents\Revature\Training\JingZ\C#\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study_Documents\Revature\Training\JingZ\C#\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+D:\Study_Documents\Revature\Training\JingZ\C#\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\Inheritance\bin\Debug\net6.0\Inheritance.exe
+D:\Study_Documents\Revature\Training\JingZ\C#\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+D:\Study_Documents\Revature\Training\JingZ\C#\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+D:\Study_Documents\Revature\Training\JingZ\C#\Inheritance\bin\Debug\net6.0\Inheritance.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\Inheritance\bin\Debug\net6.0\ref\Inheritance.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\Inheritance\obj\Debug\net6.0\Inheritance.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
