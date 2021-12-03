@@ -1,0 +1,15 @@
+D:\Study_Documents\Revature\Training\JingZ\C#\Interfaces\bin\Debug\net6.0\Interfaces.exe
+D:\Study_Documents\Revature\Training\JingZ\C#\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+D:\Study_Documents\Revature\Training\JingZ\C#\Interfaces\bin\Debug\net6.0\Interfaces.runtimeconfig.json
+D:\Study_Documents\Revature\Training\JingZ\C#\Interfaces\bin\Debug\net6.0\Interfaces.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\Interfaces\bin\Debug\net6.0\ref\Interfaces.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study_Documents\Revature\Training\JingZ\C#\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+D:\Study_Documents\Revature\Training\JingZ\C#\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\Interfaces\obj\Debug\net6.0\Interfaces.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+# Exclusive, ignore some case
+*.docx
+
+
+# ignore .vscode
+.vscode/*
+.vs/*
