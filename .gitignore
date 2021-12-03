@@ -1,6 +1,9 @@
-# Exclusive, ignore some case
+# Exclusive, ignore some files/directories when push to repo.
+# Use .gitignore to NOT add system-specific files
+# use the '*' as a wildcard, meanning one or more characters
 *.docx
-
+*.log
+*.lock
 
 # ignore .vscode
 .vscode/*
