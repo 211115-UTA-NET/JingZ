@@ -3,3 +3,13 @@ D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\obj\Debug\ne
 D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.AssemblyInfoInputs.cache
 D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.AssemblyInfo.cs
 D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.csproj.CoreCompileInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\bin\Debug\net6.0\AbstractClassesChallenge.exe
+D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\bin\Debug\net6.0\AbstractClassesChallenge.deps.json
+D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\bin\Debug\net6.0\AbstractClassesChallenge.runtimeconfig.json
+D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\bin\Debug\net6.0\AbstractClassesChallenge.dll
+D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\bin\Debug\net6.0\ref\AbstractClassesChallenge.dll
+D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\bin\Debug\net6.0\AbstractClassesChallenge.pdb
+D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.dll
+D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\obj\Debug\net6.0\ref\AbstractClassesChallenge.dll
+D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.pdb
+D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.genruntimeconfig.cache
