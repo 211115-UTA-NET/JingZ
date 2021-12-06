@@ -1,0 +1,5 @@
+D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.csproj.AssemblyReference.cache
+D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.AssemblyInfoInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.AssemblyInfo.cs
+D:\Study_Documents\Revature\Training\JingZ\AbstractClassesChallenge\obj\Debug\net6.0\AbstractClassesChallenge.csproj.CoreCompileInputs.cache
