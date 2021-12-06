@@ -42,6 +42,9 @@ namespace AbstractClassesChallenge
         
         // This method sets the Area of the shape
         protected abstract void SetArea();
-
+        // This method will return the sides value of the shape
+        public abstract void GetSidesInfo();
+        // This method shows area formula with substitude value
+        public abstract void GetAreaFormula();
     }
 }

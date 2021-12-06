@@ -19,5 +19,13 @@ namespace AbstractClassesChallenge
             double s = (a + b + c) / 2;
             base.Area = Math.Sqrt(s * (s - a) * (s - b) * (s - c));
         }
+
+        public override void GetSidesInfo(){
+            Console.WriteLine($"Your {base.Name} has sides {a}, {b}, and {c}.");
+        }
+        public override void GetAreaFormula()
+        {
+            Console.WriteLine($"Area formula for {base.Name}:\ns = ({a}+{b}+{c})/2\nArea = √(s(s-{a})(s-{b})(s-{c}))");
+        }
     }
 }

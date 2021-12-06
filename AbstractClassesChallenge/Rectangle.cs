@@ -15,5 +15,12 @@ namespace AbstractClassesChallenge
         protected override void SetArea(){
             base.Area = this.length * this.width;
         }
+        public override void GetSidesInfo(){
+            Console.WriteLine($"Your {base.Name} has sides {width} and {length}.");
+        }
+        public override void GetAreaFormula()
+        {
+            Console.WriteLine($"Area formula for {base.Name}:\nArea = {width} x {length}");
+        }
     }
 }
