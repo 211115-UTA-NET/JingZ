@@ -1,0 +1,15 @@
+D:\Study_Documents\Revature\Training\JingZ\C#\IntroToOOP\bin\Debug\net6.0\IntroToOOP.exe
+D:\Study_Documents\Revature\Training\JingZ\C#\IntroToOOP\bin\Debug\net6.0\IntroToOOP.deps.json
+D:\Study_Documents\Revature\Training\JingZ\C#\IntroToOOP\bin\Debug\net6.0\IntroToOOP.runtimeconfig.json
+D:\Study_Documents\Revature\Training\JingZ\C#\IntroToOOP\bin\Debug\net6.0\IntroToOOP.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\IntroToOOP\bin\Debug\net6.0\ref\IntroToOOP.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\IntroToOOP\bin\Debug\net6.0\IntroToOOP.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\IntroToOOP\obj\Debug\net6.0\IntroToOOP.csproj.AssemblyReference.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\IntroToOOP\obj\Debug\net6.0\IntroToOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study_Documents\Revature\Training\JingZ\C#\IntroToOOP\obj\Debug\net6.0\IntroToOOP.AssemblyInfoInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\IntroToOOP\obj\Debug\net6.0\IntroToOOP.AssemblyInfo.cs
+D:\Study_Documents\Revature\Training\JingZ\C#\IntroToOOP\obj\Debug\net6.0\IntroToOOP.csproj.CoreCompileInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\IntroToOOP\obj\Debug\net6.0\IntroToOOP.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\IntroToOOP\obj\Debug\net6.0\ref\IntroToOOP.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\IntroToOOP\obj\Debug\net6.0\IntroToOOP.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\IntroToOOP\obj\Debug\net6.0\IntroToOOP.genruntimeconfig.cache

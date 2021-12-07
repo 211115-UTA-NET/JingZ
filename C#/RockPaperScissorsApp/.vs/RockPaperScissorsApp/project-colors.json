@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bdc754b5-16f6-4d4a-bd04-f628d056d3b3": {
+      "ProjectGuid": "bdc754b5-16f6-4d4a-bd04-f628d056d3b3",
+      "DisplayName": "RockPaperScissorsApp.APP",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
