@@ -1,0 +1,15 @@
+D:\Study_Documents\Revature\Training\JingZ\C#\RockPaperScissorsApp\RockPaperScissorsApp.APP\bin\Debug\net6.0\RockPaperScissorsApp.APP.exe
+D:\Study_Documents\Revature\Training\JingZ\C#\RockPaperScissorsApp\RockPaperScissorsApp.APP\bin\Debug\net6.0\RockPaperScissorsApp.APP.deps.json
+D:\Study_Documents\Revature\Training\JingZ\C#\RockPaperScissorsApp\RockPaperScissorsApp.APP\bin\Debug\net6.0\RockPaperScissorsApp.APP.runtimeconfig.json
+D:\Study_Documents\Revature\Training\JingZ\C#\RockPaperScissorsApp\RockPaperScissorsApp.APP\bin\Debug\net6.0\RockPaperScissorsApp.APP.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\RockPaperScissorsApp\RockPaperScissorsApp.APP\bin\Debug\net6.0\ref\RockPaperScissorsApp.APP.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\RockPaperScissorsApp\RockPaperScissorsApp.APP\bin\Debug\net6.0\RockPaperScissorsApp.APP.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\RockPaperScissorsApp.APP.csproj.AssemblyReference.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\RockPaperScissorsApp.APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study_Documents\Revature\Training\JingZ\C#\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\RockPaperScissorsApp.APP.AssemblyInfoInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\RockPaperScissorsApp.APP.AssemblyInfo.cs
+D:\Study_Documents\Revature\Training\JingZ\C#\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\RockPaperScissorsApp.APP.csproj.CoreCompileInputs.cache
+D:\Study_Documents\Revature\Training\JingZ\C#\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\RockPaperScissorsApp.APP.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\ref\RockPaperScissorsApp.APP.dll
+D:\Study_Documents\Revature\Training\JingZ\C#\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\RockPaperScissorsApp.APP.pdb
+D:\Study_Documents\Revature\Training\JingZ\C#\RockPaperScissorsApp\RockPaperScissorsApp.APP\obj\Debug\net6.0\RockPaperScissorsApp.APP.genruntimeconfig.cache

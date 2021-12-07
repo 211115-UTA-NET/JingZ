@@ -23,16 +23,27 @@ namespace RockPaperScissorsApp.APP
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to RockPaperScissors App");
-            Console.WriteLine();
-            var game = new Game();
-            Console.WriteLine("Play a round?");
-            string? input;
+            string? name = null;
+            while (name == null || name.Length<=0)
+            {
+                Console.Write("Enter an valid username: ");
+                name = Console.ReadLine();
+            }
+            var game = new Game(name);
+            Console.WriteLine($"[ Welcome Player {game.PlayerName}. ]");
             while (true)
             {
-                input = Console.ReadLine();
-                if (input == null) { break; }
+                Console.WriteLine();
+                Console.Write("Play a round? (y/n) ");
+                string? input = Console.ReadLine();
+                if (input == null || input.ToLower() != "y") {
+                    Console.WriteLine("--- End of the Game ---");
+                    break;
+                }
                 game.PlayRound();
             }
+            Console.WriteLine("--- Game Records ---");
+            game.Summary();
         }
     }
 }
