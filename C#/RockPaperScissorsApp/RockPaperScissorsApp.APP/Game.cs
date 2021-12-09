@@ -4,19 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
+using RockPaperScissorsApp.Logic;
+using Xml = RockPaperScissorsApp.App.Serialization;
 
 namespace RockPaperScissorsApp.App
 {
     public class Game
     {
-        private List<Record> allRecords = new List<Record>();
+        private List<Round> allRecords = new List<Round>();
         public string PlayerName { get; }
         private string[] RPS = { "Rock", "Paper", "Scissor" };
 
-        public XmlSerializer Serializer { get; } = new(typeof(List<Record>));
+        public XmlSerializer Serializer { get; } = new(typeof(List<Xml.Record>));
 
         // constructor
-        public Game(string playerName, List<Record>? allRecords = null)
+        public Game(string playerName, List<Round>? allRecords = null)
         {
             this.PlayerName = playerName;
             if (allRecords != null)
@@ -24,6 +26,7 @@ namespace RockPaperScissorsApp.App
                 this.allRecords = allRecords;
             }
         }
+
         public void PlayRound()
         {
             Console.WriteLine("1. Rock\n2. Paper\n3. Scissor");
@@ -43,53 +46,34 @@ namespace RockPaperScissorsApp.App
                 }
             }
 
-            if (player < 4 && player > 0)
-            {
-                Random random = new Random();
-                int PCchoice = random.Next(1, 4);
-                Console.WriteLine();
-                Console.WriteLine($"You choose [{RPS[player - 1]}]");
-                Console.WriteLine($"PC gives you a [{RPS[PCchoice - 1]}]");
-                // Rock !< Scissor
-                if(PCchoice == 1 && player == 3)
-                {
-                    AddRecord(PCchoice, player, "Lose");
-                }
-                else if (PCchoice < player )
-                {
-                    AddRecord(PCchoice, player, "Win");
-                }
-                else if (PCchoice > player)
-                {
-                    AddRecord(PCchoice, player, "Lose");
-                }
-                else
-                {
-                    AddRecord(PCchoice, player, "A Tie");
-                }
-            }
+            Random random = new Random();
+            int PCchoice = random.Next(1, 4);
+            Console.WriteLine();
+            string pc = RPS[PCchoice - 1];
+            string playerMove = RPS[player - 1];
+            Console.WriteLine($"You choose [{playerMove}]");
+            Console.WriteLine($"PC gives you a [{pc}]");
+            AddRecord(pc, playerMove);
         }
-        private void AddRecord(int pc, int player, string result)
+
+        private void AddRecord(string pc, string player)
         {
-            var record = new Record(DateTime.Now, RPS[pc - 1], RPS[player - 1], result);
+            Move move1 = (Move)Enum.Parse(typeof(Move), pc);
+            Move move2 = (Move)Enum.Parse(typeof(Move), player);
+
+            var record = new Round(DateTime.Now, move1, move2);
             allRecords.Add(record);
-            if (result == "A Tie")
-            {
-                Console.WriteLine($"You have {result}!");
-            }
-            else
-            {
-                Console.WriteLine($"You {result}!");
-            }
+            Console.WriteLine($"You have a {record.Result}!");
         }
+
         public void Summary()
         {
-            var summary = new System.Text.StringBuilder();
+            var summary = new StringBuilder();
             summary.AppendLine($"Date\t\t\tComputer\t{PlayerName}\t\tResult");
             summary.AppendLine("---------------------------------------------------------------");
             foreach (var record in allRecords)
             {
-                summary.AppendLine($"{record.Date}\t{record.PC}\t\t{record.Player}\t\t{record.result}");
+                summary.AppendLine($"{record.Date}\t{record.Player1}\t\t{record.Player2}\t\t{record.Result}");
             }
             summary.AppendLine("---------------------------------------------------------------");
             
@@ -98,8 +82,27 @@ namespace RockPaperScissorsApp.App
 
         public string SerializeAsXml()
         {
+            var xmlRecords = new List<Xml.Record>();
+
+            foreach (Round record in allRecords)
+            {
+                //var xml = new Xml.Record();
+                //xml.When = record.Date;
+                //xml.PlayerMove = record.Player;
+                //xml.CPUMove = record.PC;
+                //xml.Result = record.result;
+                // "property initializer" syntax - call a constructor & set properties in one go.
+                xmlRecords.Add(new Xml.Record
+                {
+                    When = record.Date,
+                    PlayerMove = record.Player1.ToString(),
+                    CPUMove = record.Player2.ToString(),
+                    Result = record.Result.ToString()
+                });
+            }
+
             var stringWriter = new StringWriter();
-            Serializer.Serialize(stringWriter, allRecords);
+            Serializer.Serialize(stringWriter, xmlRecords);
             stringWriter.Close();
             return stringWriter.ToString();
         }

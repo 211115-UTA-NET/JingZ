@@ -17,22 +17,37 @@
  *   but in a way that allows for extending it/generalizing it in the future.
  */
 
+using System.Diagnostics;
 using System.Xml.Serialization;
+using RockPaperScissorsApp.Logic;
 
 namespace RockPaperScissorsApp.App
 {
     public class Program
     {
+        // separate parts of the code that have their own distinct purposes
+        // from each other
+
+        // five design principles: SOLID
+        // S: single responsibility principle
+        //   each class should have "one responsibility" (not several)
+        //   each class should have "one reason to change"
+        // we can apply the same idea at many scales: variable, method, project, apps/deployments
+
         public static void Main(string[] args)
         {
+            //CastingDemo.NumericCasting();
+            CastingDemo.NonNumericCasting();
             Console.WriteLine("Welcome to RockPaperScissors App");
             string? name = null;
-            while (name == null || name.Length<=0)
+            while (name == null || name.Length <= 0)
             {
                 Console.Write("Enter an valid username: ");
+                Thread.Sleep(1000);
+                //GC.Collect();
                 name = Console.ReadLine();
             }
-            List<Record>? records = ReadHistoryFromFile("../../../history.xml");
+            List<Round>? records = ReadHistoryFromFile("../../../history.xml");
             Game game = new(name, records);
             Console.WriteLine($"[ Welcome Player {game.PlayerName}. ]");
             while (true)
@@ -40,7 +55,8 @@ namespace RockPaperScissorsApp.App
                 Console.WriteLine();
                 Console.Write("Play a round? (y/n) ");
                 string? input = Console.ReadLine();
-                if (input == null || input.ToLower() != "y") {
+                if (input == null || input.ToLower() != "y")
+                {
                     Console.WriteLine("--- End of the Game ---");
                     break;
                 }
@@ -66,14 +82,14 @@ namespace RockPaperScissorsApp.App
         // .NET has a special interface called IDisposable that basically tells you
         //     this is a class that needs to be Disposed when you're done.
 
-        private static List<Record>? ReadHistoryFromFileOld(string filePath)
+        private static List<Round>? ReadHistoryFromFileOld(string filePath)
         {
-            XmlSerializer serializer = new(typeof(List<Record>));
+            XmlSerializer serializer = new(typeof(List<Round>));
             StreamReader? reader = null;
             try
             {
                 reader = new(filePath);
-                var records = (List<Record>?)serializer.Deserialize(reader);
+                var records = (List<Round>?)serializer.Deserialize(reader);
                 return records;
             }
             catch (FileNotFoundException)
@@ -89,24 +105,28 @@ namespace RockPaperScissorsApp.App
             }
         }
 
-
-        private static List<Record>? ReadHistoryFromFile(string filePath)
+        private static List<Round>? ReadHistoryFromFile(string filePath)
         {
-            XmlSerializer serializer = new(typeof(List<Record>));
-            // using statement can be a block, or just one line
-            using (StreamReader? reader = new(filePath))
+            XmlSerializer serializer = new(typeof(List<Serialization.Record>));
+
+            try
             {
-                try
-                {
-                    var records = (List<Record>?)serializer.Deserialize(reader);
-                    return records;
-                }
-                catch (FileNotFoundException)
-                {
-                    return null;
-                }
+                // using statement can be a block, or just one line
+                // if it's one line, the dispose happens whenever the variable
+                // goes out of scope
+                using StreamReader reader = new(filePath);
+
+                var records = (List<Serialization.Record>?)serializer.Deserialize(reader);
+                if (records is null) throw new InvalidDataException();
+
+                // sneak peak into nice advanced feature called LINQ, using lambda expression delegates
+                return records.Select(x => x.CreateRound()).ToList();
             }
-            // at this point, it's been disposed
+
+            catch (IOException)
+            {
+                return null;
+            }
         }
     }
 }
