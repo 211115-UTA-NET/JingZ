@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9fc9ee1b-0df7-49ba-bca4-a9d4f2a68fb8": {
+      "ProjectGuid": "9fc9ee1b-0df7-49ba-bca4-a9d4f2a68fb8",
+      "DisplayName": "PrimeService.Tests",
+      "ColorIndex": 0
+    },
+    "2fac5cce-7012-42a6-89c0-9824497e1862": {
+      "ProjectGuid": "2fac5cce-7012-42a6-89c0-9824497e1862",
+      "DisplayName": "PrimeService",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -3,18 +3,26 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
-namespace RockPaperScissorsApp.APP
+namespace RockPaperScissorsApp.App
 {
     public class Game
     {
-        List<Record> allRecords = new List<Record>();
+        private List<Record> allRecords = new List<Record>();
         public string PlayerName { get; }
         private string[] RPS = { "Rock", "Paper", "Scissor" };
+
+        public XmlSerializer Serializer { get; } = new(typeof(List<Record>));
+
         // constructor
-        public Game(string playerName)
+        public Game(string playerName, List<Record>? allRecords = null)
         {
             this.PlayerName = playerName;
+            if (allRecords != null)
+            {
+                this.allRecords = allRecords;
+            }
         }
         public void PlayRound()
         {
@@ -86,6 +94,14 @@ namespace RockPaperScissorsApp.APP
             summary.AppendLine("---------------------------------------------------------------");
             
             Console.WriteLine(summary.ToString());
+        }
+
+        public string SerializeAsXml()
+        {
+            var stringWriter = new StringWriter();
+            Serializer.Serialize(stringWriter, allRecords);
+            stringWriter.Close();
+            return stringWriter.ToString();
         }
     }
 }
