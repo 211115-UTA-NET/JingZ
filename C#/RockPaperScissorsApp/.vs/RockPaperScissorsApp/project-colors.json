@@ -5,22 +5,7 @@
       "ProjectGuid": "bdc754b5-16f6-4d4a-bd04-f628d056d3b3",
       "DisplayName": "RockPaperScissorsApp.APP",
       "ColorIndex": 0
-    },
-    "d62e768f-54a1-4fdf-bed9-22e77e1b8fa2": {
-      "ProjectGuid": "d62e768f-54a1-4fdf-bed9-22e77e1b8fa2",
-      "DisplayName": "RockPaperScissorsApp.Tests",
-      "ColorIndex": 1
-    },
-    "31d59525-46b3-48af-b6c4-ba67d0b28c80": {
-      "ProjectGuid": "31d59525-46b3-48af-b6c4-ba67d0b28c80",
-      "DisplayName": "RockPaperScissorsApp.Logic",
-      "ColorIndex": 2
-    },
-    "998ce848-8e35-42a6-bc10-1f44080362a5": {
-      "ProjectGuid": "998ce848-8e35-42a6-bc10-1f44080362a5",
-      "DisplayName": "RockPaperScissorsApp.Logic",
-      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 1
 }

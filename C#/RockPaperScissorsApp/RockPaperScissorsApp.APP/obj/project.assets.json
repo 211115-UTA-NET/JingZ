@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "RockPaperScissorsApp.Logic/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/RockPaperScissorsApp.Logic.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/RockPaperScissorsApp.Logic.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "RockPaperScissorsApp.Logic/1.0.0": {
-      "type": "project",
-      "path": "../RockPaperScissorsApp.Logic/RockPaperScissorsApp.Logic.csproj",
-      "msbuildProject": "../RockPaperScissorsApp.Logic/RockPaperScissorsApp.Logic.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "RockPaperScissorsApp.Logic >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\JingJing Zhuang\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study_Documents\\Revature\\Training\\JingZ\\C#\\RockPaperScissorsApp\\RockPaperScissorsApp.App\\RockPaperScissorsApp.App.csproj",
-      "projectName": "RockPaperScissorsApp.App",
-      "projectPath": "D:\\Study_Documents\\Revature\\Training\\JingZ\\C#\\RockPaperScissorsApp\\RockPaperScissorsApp.App\\RockPaperScissorsApp.App.csproj",
+      "projectUniqueName": "D:\\Study_Documents\\Revature\\Training\\trainer-code\\wk3\\RockPaperScissorsApp\\RockPaperScissorsApp.APP\\RockPaperScissorsApp.APP.csproj",
+      "projectName": "RockPaperScissorsApp.APP",
+      "projectPath": "D:\\Study_Documents\\Revature\\Training\\trainer-code\\wk3\\RockPaperScissorsApp\\RockPaperScissorsApp.APP\\RockPaperScissorsApp.APP.csproj",
       "packagesPath": "C:\\Users\\JingJing Zhuang\\.nuget\\packages\\",
-      "outputPath": "D:\\Study_Documents\\Revature\\Training\\JingZ\\C#\\RockPaperScissorsApp\\RockPaperScissorsApp.App\\obj\\",
+      "outputPath": "D:\\Study_Documents\\Revature\\Training\\trainer-code\\wk3\\RockPaperScissorsApp\\RockPaperScissorsApp.APP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JingJing Zhuang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "D:\\Study_Documents\\Revature\\Training\\JingZ\\C#\\RockPaperScissorsApp\\RockPaperScissorsApp.Logic\\RockPaperScissorsApp.Logic.csproj": {
-              "projectPath": "D:\\Study_Documents\\Revature\\Training\\JingZ\\C#\\RockPaperScissorsApp\\RockPaperScissorsApp.Logic\\RockPaperScissorsApp.Logic.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
