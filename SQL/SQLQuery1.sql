@@ -36,7 +36,7 @@ CREATE TABLE Genre
 );
 
 -- change table name 'Author' to 'Athors'
-EXEC sp_rename 'Author','Authors';
+EXEC sp_rename 'Custumer','Customer';
 
 -- create a foreign key as a alteration to another table
 ALTER TABLE Books ADD FOREIGN KEY (Author) REFERENCES Authors(Author);
@@ -156,5 +156,9 @@ SELECT * FROM Custumer;
 SELECT * FROM Orders;
 
 SELECT ID, FirstName, Amount, OrderDate 
-FROM Custumer, Orders
-WHERE Custumer.ID = Orders.CustumerID;
+FROM Customer, Orders
+WHERE Customer.ID = Orders.CustumerID;
+
+-- ORDER BY
+SELECT * FROM Books ORDER BY Title;
+
