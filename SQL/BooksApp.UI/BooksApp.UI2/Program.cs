@@ -43,6 +43,12 @@ void ListBooks()
     }
     // 4. close the connection
     connection.Close();
+
+    /* 
+     * can reopen the same connection and reuse it
+     * it't no big deal to not do that and just instantiate a new one though
+     * because the sqlClient ADO.NET code maintains a "connection pool"
+    */
 }
 
 void AddNewBook(string title, int pages)

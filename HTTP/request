@@ -1,0 +1,37 @@
+GET https://jsonplaceholder.typicode.com/posts?id=1 HTTP/1.1
+
+###
+
+POST https://jsonplaceholder.typicode.com/posts HTTP/1.1
+content-type: application/json; charset=UTF-8
+
+{
+    "title": "foo",
+    "body": "just an example",
+    "userId": 1
+}
+
+###
+
+PUT https://jsonplaceholder.typicode.com/posts/1 HTTP/1.1
+content-type: application/json; charset=UTF-8
+
+{
+    "id": 1,
+    "title": "foo",
+    "body": "bar",
+    "userId": 1
+}
+
+###
+
+DELETE https://jsonplaceholder.typicode.com/posts/1
+
+###
+
+PATCH https://jsonplaceholder.typicode.com/posts/1 HTTP/1.1
+content-type: application/json; charset=UTF-8
+
+{
+    "title": "foo"
+}
