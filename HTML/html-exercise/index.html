@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Exercise</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+  </head>
+
+  <body>
+    <header>
+      <div class="crop">
+        <img src="landscape.jpg" alt="Header image" />
+      </div>
+    </header>
+    <div>
+      <dl>
+        <dt>
+          <h1>About</h1>
+        </dt>
+        <dd>
+          <p><b>Just For HTML Practice... </b></p>
+        </dd>
+      </dl>
+      <br />
+      <h1>Our Location</h1>
+      <ul>
+        <li>
+          <b>USA</b>
+          <ul>
+            <li>
+              <a
+                href="https://www.google.com/maps/place/New+York,+NY/@40.6971494,-74.2598593,10z/data=!3m1!4b1!4m5!3m4!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!8m2!3d40.7127753!4d-74.0059728"
+                target="_blank"
+              >
+                New York
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/maps/place/Columbus,+OH/@39.9826142,-83.2710077,10z/data=!3m1!4b1!4m5!3m4!1s0x883889c1b990de71:0xe43266f8cfb1b533!8m2!3d39.9611755!4d-82.9987942"
+                target="_blank"
+              >
+                Columbus
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/maps/place/Austin,+TX/@30.3074624,-98.0335841,10z/data=!3m1!4b1!4m5!3m4!1s0x8644b599a0cc032f:0x5d9b464bd469d57a!8m2!3d30.267153!4d-97.7430608"
+                target="_blank"
+              >
+                Austin
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/maps/place/Philadelphia,+PA/@40.0021607,-75.398207,10z/data=!3m1!4b1!4m5!3m4!1s0x89c6b7d8d4b54beb:0x89f514d88c3e58c1!8m2!3d39.9525839!4d-75.1652215"
+                target="_blank"
+              >
+                Philly
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <b>World</b>
+          <ul>
+            <li>
+              <a
+                href="https://www.google.com/maps/place/Ottawa,+ON,+Canada/@45.2487863,-76.3606564,9z/data=!3m1!4b1!4m5!3m4!1s0x4cce05b25f5113af:0x8a6a51e131dd15ed!8m2!3d45.4215296!4d-75.6971931"
+              >
+                Ottawa
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.google.com/maps/place/Sydney+NSW,+Australia/@-33.8469761,150.3715518,9z/data=!3m1!4b1!4m5!3m4!1s0x6b129838f39a743f:0x3017d681632a850!8m2!3d-33.8688197!4d151.2092955"
+              >
+                Sydney
+              </a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    <div>
+      <h1>Upcoming Classes</h1>
+      <table>
+        <thead>
+          <tr>
+            <th>Location</th>
+            <th>Topic</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>New York</td>
+            <td>JavaScript & jQery</td>
+          </tr>
+          <tr>
+            <td>San Francisco</td>
+            <td>HTML & CSS</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div>
+      <h1>Sign Up!</h1>
+      <form method="post" action="">
+        <div>
+          Name:
+          <input
+            type="text"
+            name="name"
+            placeholder="Enter your name here..."
+          />
+        </div>
+        <div>
+          Email:
+          <input
+            type="email"
+            name="email"
+            placeholder="Enter your email here..."
+          />
+        </div>
+        <div>
+          Location:
+          <select id="locations" name="locations">
+            <option value="SF">San Francisco</option>
+            <option value="NY">New York</option>
+            <option value="CO">Columbus</option>
+            <option value="PH">Philly</option>
+          </select>
+        </div>
+        <div>
+          <fieldset>
+            <legend>Gender:</legend>
+            <!-- using same name, checked only affect on one of them -->
+            <label for="female">
+              Female
+              <input type="radio" name="gender" value="female" />
+            </label>
+            <label for="male">
+              Male
+              <input type="radio" name="gender" value="male" />
+            </label>
+          </fieldset>
+        </div>
+        <div>
+          <label>
+            Experience:<br />
+            <textarea
+              name="textarea"
+              rows="8"
+              cols="80"
+              placeholder="Enter your experience here..."
+            ></textarea>
+          </label>
+        </div>
+        <div>
+          <!-- use input button because it matches with the form method=POST above ^ -->
+          <input type="submit" value="Sign Up!" />
+          <!-- <button type="button" name="button">Sign Up</button> -->
+        </div>
+      </form>
+    </div>
+
+    <br />
+    <br />
+    <br />
+    <footer>
+      <nav>
+        <a href="https://twitter.com/?lang=en">Twitter</a> |
+        <a href="https://www.facebook.com/">Facebook</a> |
+        <a href="https://www.flickr.com/">Flickr</a>
+      </nav>
+    </footer>
+  </body>
+</html>

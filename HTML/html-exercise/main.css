@@ -1,0 +1,50 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+img {
+  border: 10px solid black;
+  object-fit: cover;
+}
+
+.crop img {
+  width: 100%;
+  height: 300px;
+  margin: -10px 0 0 -10px;
+}
+
+body {
+  background-color: rgb(252, 244, 222);
+}
+
+form div {
+  padding-top: 5px;
+}
+
+fieldset {
+  border: 1px solid #000;
+}
+
+textarea {
+  margin-top: 5px;
+}
+
+a:link {
+  color: blue;
+}
+a:visited {
+  color: rgb(146, 145, 145);
+}
+a:hover {
+  color: rgb(107, 162, 245);
+}
+a:active {
+  /* clicked color */
+  color: orange;
+}
+
+dd p::first-letter {
+  color: rgb(56, 56, 255);
+}
