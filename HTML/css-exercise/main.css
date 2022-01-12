@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+}
+body main {
+  border: 5px solid rgb(122, 0, 0);
+  padding: 10px;
+  background-color: lightyellow;
+}
+
+main img {
+  border: 5px solid orange;
+  width: 60%;
+  height: 150px;
+}
+
+main div {
+  border: 5px dashed orange;
+  width: 60%;
+  height: 260px;
+  margin-top: 20px;
+  background-color: yellow;
+  overflow: auto;
+}
+
+.sentence {
+  text-decoration: underline;
+  font-weight: bold;
+}
